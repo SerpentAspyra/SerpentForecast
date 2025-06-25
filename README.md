@@ -4,7 +4,7 @@ Welcome to the **Serpent Forecast** APK repository!
 
 This repository contains **prebuilt APK files** of Serpent Forecast — a beautiful, location-based weather app built with Flutter. It provides real-time weather updates with a sleek, user-friendly interface.
 
-![Weather View](screenshots/weather_view.png)
+![Weather View](Screenshot1.png)
 ---
 
 ## About Serpent Forecast
