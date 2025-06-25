@@ -22,7 +22,7 @@ Serpent Forecast helps you stay updated with the current weather conditions for 
 
 ## APK Releases
 
-You can download the latest **APK** files from the [Releases](https://github.com/your-username/your-repo-name/releases) section.
+You can download the latest **APK** files from the [Releases](https://github.com/SerpentAspyra/SerpentForecast/releases) section.
 
 Simply download the APK file and install it on your Android device. No need to build from source!
 
